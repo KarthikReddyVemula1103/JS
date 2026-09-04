@@ -354,7 +354,7 @@ switch(day)
         default: 
            console.log("Invalid Number")
 }
-
+//Task 28
 let studentName = prompt("Enter student name:");
 let studentAge = Number(prompt("Enter student age:"));
 let studentCity = prompt("Enter student city:");
